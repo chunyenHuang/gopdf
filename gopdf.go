@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/phpdave11/gofpdi"
+	"github.com/chunyenHuang/gofpdi"
 )
 
 const subsetFont = "SubsetFont"

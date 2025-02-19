@@ -300,7 +300,7 @@ func main() {
 
 ### Import existing PDF
 
-Import existing PDF power by package [gofpdi](https://github.com/phpdave11/gofpdi) created by @phpdave11 (thank you :smile:)
+Import existing PDF power by package [gofpdi](https://github.com/chunyenHuang/gofpdi) created by @phpdave11 (thank you :smile:)
 
 ```go
 package main
